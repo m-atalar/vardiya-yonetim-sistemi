@@ -4,6 +4,12 @@
 
 Öğrenci: **Mustafa ATALAR**
 
+## Bağlantılar
+
+- LinkedIn paylaşımı: https://www.linkedin.com/feed/update/urn:li:activity:7392639789466013696/
+- GitHub (Repo): https://github.com/m-atalar/vardiya-yonetim-sistemi
+- YouTube (Demo): https://youtu.be/tRJq6UtfuQo
+
 ## Proje Hakkında
 
 Bu proje, çalışanların vardiyalarını yönetmek ve planlamak için geliştirilmiş bir web uygulamasıdır. Behavior-Driven Development (BDD) yaklaşımı ve Test-Driven Development (TDD) prensipleri kullanılarak geliştirilmiştir.
